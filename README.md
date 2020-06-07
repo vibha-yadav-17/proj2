@@ -1,2 +1,2 @@
 # proj2
-# can run by *npm start*
+ can run by *npm start*
